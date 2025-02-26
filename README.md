@@ -1,0 +1,2 @@
+# Automated-insurance-system-with-risk-measurement-based-on-artificial-intelligence
+This project aims to develop an intelligent insurance system that automates policy management, claims processing, and risk assessment using artificial intelligence. The system leverages machine learning algorithms to analyze customer data, historical claims, and external factors to determine risk levels and provide accurate premium calculations. .
